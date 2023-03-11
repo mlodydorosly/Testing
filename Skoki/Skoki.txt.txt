@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ssadasd
+=======
+yabko
+>>>>>>> Skoki
